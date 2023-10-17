@@ -6,6 +6,15 @@ Welcome to our exciting hackathon where you can level up your coding skills and 
 
 In the first level, we're focusing on fundamental file management tasks and test-driven development. Your mission is to build a file management application that allows users to read file contents, display them in the console, write user input to the file, clear the file's content, and exit the operation gracefully. The cycle continues until the user decides to exit. Add a sample text file with 5 inspiring quotes. Additionally, you'll set up a unit test project and create test cases to ensure the application's reliability. Don't forget to leverage Copilot to fix any bugs you encounter during this level. Your ultimate goal is to build and execute both the application and the test cases successfully.
 
+> Sample App (.NE Core Console) and the test execution screenshots for reference
+   - **App Execution**
+
+     ![App execution](https://github.com/ambilykk/copilot-hack/assets/10282550/84b94479-48e3-4e03-8b2d-ee14a9fcae85)
+
+   - **Test Execution**
+
+      ![Test execution](https://github.com/ambilykk/copilot-hack/assets/10282550/0d1728d5-55be-4ec5-b75f-fb81a89c8a83)
+
 ## Level 2: Comprehensive Documentation
 
 In this level, it's time to document your code thoroughly. You'll add documentation to all files, including your test cases. Clear and concise documentation is key to ensuring that your work can be understood and maintained by others.
